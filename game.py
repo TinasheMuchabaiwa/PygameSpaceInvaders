@@ -27,7 +27,7 @@ pygame.display.set_icon(icon)                                           # SET IC
 background = pygame.image.load('background4.jpg')                        # background img
 
 #BACKGROUND SOUNDS
-mixer.music.load('5_5_3.mp3')
+mixer.music.load('9.wav')
 mixer.music.play(-1)#loop the sound
 
 '''
